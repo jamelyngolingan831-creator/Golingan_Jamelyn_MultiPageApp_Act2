@@ -106,7 +106,6 @@ st.markdown(f"""
 st.markdown("""
 <div class="header">
 <h1>📬 Contact Me</h1>
-<p>Let’s build something amazing together</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -142,8 +141,6 @@ st.markdown(f"""
 📱 Phone: +63 9XX XXX XXXX<br>
 📍 Location: Philippines
 </p>
-
-<div class="tag">Available for Freelance</div>
 
 <hr style="margin:15px 0; opacity:0.2;">
 
